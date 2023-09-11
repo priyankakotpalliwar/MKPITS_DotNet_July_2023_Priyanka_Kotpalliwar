@@ -1,12 +1,8 @@
-#include<stdio.h>
-void main()
-{
-	int num,cube;
-	
-	
-	printf("enter the number");
-	scanf("%d",&num);
-	cube=num*num*num;
-	printf("cube is:%d",cube);
-	
-}
+ 
+ #include<stdio.h>
+  void reverse(int i);
+   int main()
+    { reverse(1); 
+	} void reverse(int i)
+	{ if (i > 5) return ;
+	 printf("%d ", i); return reverse((i++, i)); }
