@@ -1,0 +1,44 @@
+<!-- 15 - wap to accept 3 subject marks and display total, per, and grade. -->
+<html>
+<script language="javascript">
+
+function acceptMarks() {
+  var marks = [];
+
+  for (var i = 0; i < 3; i++) {
+    marks[i] = parseInt(prompt("Enter marks for subject " + (i + 1) + ": "));
+  }
+
+  return marks;
+}
+
+// Function to display total marks and grade
+function displayResults(marks) {
+  var total = marks[0] + marks[1] + marks[2];
+  var average = total / 3;
+  var grade;
+
+  if (average >= 90) {
+    grade = "A";
+  } else if (average >= 80) {
+    grade = "B";
+  } else if (average >= 70) {
+    grade = "C";
+  } else if (average >= 60) {
+    grade = "D";
+  } else {
+    grade = "F";
+  }
+
+  document.write("Total marks: " + total);
+  document.write("Average grade: " + grade);
+}
+
+// Main function
+function main() {
+  var marks = acceptMarks();
+  displayResults(marks);
+}
+main();
+</script>
+</html>
