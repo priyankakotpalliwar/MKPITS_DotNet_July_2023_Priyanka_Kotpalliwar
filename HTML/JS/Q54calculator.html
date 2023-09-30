@@ -1,0 +1,37 @@
+// Get the input and output fields
+<html>
+    <script language="javascript">
+const input = document.querySelector(".input");
+const output = document.querySelector(".output");
+
+// Add an event listener to each number button
+const buttons = document.querySelectorAll(".button");
+buttons.forEach(button => {
+  button.addEventListener("click", e => {
+    // Get the value of the button
+    const value = e.target.textContent;
+
+    // Append the value to the input field
+    input.value += value;
+  });
+});
+
+// Add an event listener to the equal button
+const equalButton = document.querySelector(".equal");
+equalButton.addEventListener("click", e => {
+  // Evaluate the expression in the input field
+  const result = eval(input.value);
+
+  // Display the result in the output field
+  output.value = result;
+});
+
+// Add an event listener to the clear button
+const clearButton = document.querySelector(".clear");
+clearButton.addEventListener("click", e => {
+  // Clear the input and output fields
+  input.value = "";
+  output.value = "";
+});
+</script>
+</html>
