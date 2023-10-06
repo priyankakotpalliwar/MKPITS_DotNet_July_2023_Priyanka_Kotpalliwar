@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <script language="javascript">
+        
+function calculateBonus(basicSalary, designation) {
+  switch (designation) 
+  {
+    case 'm':
+      return 5000;
+    case 'c':
+      return 2000;
+    case 'p':
+      return 1000;
+    default:
+      return 0; // Invalid designation, so no bonus
+  }
+}
+
+
+var empName = prompt("Enter employee name:");
+var basicSalary = parseFloat(prompt("Enter basic salary:"));
+var designation = prompt("Enter designation (m for manager, c for clerk, p for peon):");
+
+// Calculate the bonus using the calculateBonus function
+var bonus = calculateBonus(basicSalary, designation);
+
+if (bonus !== 0) {
+  document.write("Employee:"+empName);
+  document.write("Basic Salary:" +basicSalary);
+  document.write("Designation:" +designation);
+  document.write("Bonus:" +bonus);
+} else {
+    document.write("Invalid designation. Please enter 'm' for manager, 'c' for clerk, or 'p' for peon.");
+}
+
+    </script>
+</html>
