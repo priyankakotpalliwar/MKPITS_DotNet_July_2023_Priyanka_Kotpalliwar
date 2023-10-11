@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\accepttwonoandprintaddition\bin\Debug\accepttwonoandprintaddition.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\accepttwonoandprintaddition\bin\Debug\accepttwonoandprintaddition.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\accepttwonoandprintaddition\bin\Debug\accepttwonoandprintaddition.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\accepttwonoandprintaddition\obj\Debug\accepttwonoandprintaddition.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\accepttwonoandprintaddition\obj\Debug\accepttwonoandprintaddition.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\accepttwonoandprintaddition\obj\Debug\accepttwonoandprintaddition.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\accepttwonoandprintaddition\obj\Debug\accepttwonoandprintaddition.pdb
