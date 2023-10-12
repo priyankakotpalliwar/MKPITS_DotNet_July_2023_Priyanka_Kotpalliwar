@@ -16,7 +16,7 @@ namespace ConsoleApp4
             Console.WriteLine("enter the num 2");
             num2=Convert.ToInt32(Console.ReadLine());
             division = num1 / num2;
-            Console.WriteLine("the division of the num"+ division);
+            Console.WriteLine("the division of the num "+ division);
             Console.ReadLine();
         }
     }
