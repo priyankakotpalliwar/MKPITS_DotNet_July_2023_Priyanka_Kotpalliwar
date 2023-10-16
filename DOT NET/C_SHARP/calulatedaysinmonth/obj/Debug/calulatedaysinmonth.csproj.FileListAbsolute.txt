@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\calulatedaysinmonth\bin\Debug\calulatedaysinmonth.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\calulatedaysinmonth\bin\Debug\calulatedaysinmonth.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\calulatedaysinmonth\bin\Debug\calulatedaysinmonth.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\calulatedaysinmonth\obj\Debug\calulatedaysinmonth.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\calulatedaysinmonth\obj\Debug\calulatedaysinmonth.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\calulatedaysinmonth\obj\Debug\calulatedaysinmonth.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\calulatedaysinmonth\obj\Debug\calulatedaysinmonth.pdb
