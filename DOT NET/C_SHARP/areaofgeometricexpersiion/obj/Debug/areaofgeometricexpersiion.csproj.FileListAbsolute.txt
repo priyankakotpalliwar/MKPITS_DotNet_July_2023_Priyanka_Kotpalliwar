@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\areaofgeometricexpersiion\bin\Debug\areaofgeometricexpersiion.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\areaofgeometricexpersiion\bin\Debug\areaofgeometricexpersiion.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\areaofgeometricexpersiion\bin\Debug\areaofgeometricexpersiion.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\areaofgeometricexpersiion\obj\Debug\areaofgeometricexpersiion.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\areaofgeometricexpersiion\obj\Debug\areaofgeometricexpersiion.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\areaofgeometricexpersiion\obj\Debug\areaofgeometricexpersiion.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\areaofgeometricexpersiion\obj\Debug\areaofgeometricexpersiion.pdb

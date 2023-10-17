@@ -10,11 +10,11 @@ namespace studentresult
     {
         static void Main(string[] args)
         {
-            string name;
+            string name,division;
             int rollno,totalmarks;
             float percentage;
             int marksinphysics, marksinchemistry, marksincomputer;
-            Console.WriteLine("Report card");
+            Console.WriteLine("                                         Report card");
             Console.WriteLine("enter the name");
             name = Convert.ToString(Console.ReadLine());
             Console.WriteLine("enter the roll no");
@@ -26,8 +26,26 @@ namespace studentresult
             Console.WriteLine("enter the marks in computer application");
             marksincomputer=Convert.ToInt32(Console.ReadLine());
             totalmarks=marksinphysics+marksinchemistry+marksincomputer;
-            percentage = totalmarks /300 *100;
-            Console.WriteLine("percwntage "+ percentage);
+            percentage = totalmarks /3.0f;
+            Console.WriteLine("percentage "+ percentage);
+            if (percentage >= 60)
+            {
+                division = "first";
+            }
+            else if (percentage < 60 && percentage >= 48)
+            {
+                division = "second";
+
+            }
+            else if (percentage <= 48 && percentage >= 38)
+            {
+                division = "pass";
+            }
+            else
+            {
+                division = "fail";
+            }
+            Console.WriteLine("division of student is " + division);
             Console.ReadKey();
 
         }
