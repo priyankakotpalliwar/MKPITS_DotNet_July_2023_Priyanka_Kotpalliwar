@@ -12,7 +12,7 @@ namespace mathematicaloperation
         {
             int num1, num2,result=0;
             int choice;
-            Console.WriteLine("enter your choice 1-Addition.\r\n2-Substraction.\r\n3-Multiplication.\r\n4-Division.\r\n5-Exit.\r\n");
+            Console.WriteLine("enter your choice\n 1-Addition.\r\n2-Substraction.\r\n3-Multiplication.\r\n4-Division.\r\n5-Exit.\r\n");
             choice = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter num1");
             num1= Convert.ToInt32(Console.ReadLine());
@@ -40,7 +40,7 @@ namespace mathematicaloperation
                     break;
                     
             }
-            Console.WriteLine("result is" + result);
+            Console.WriteLine("result is " + result);
             Console.ReadKey();
         }
     }

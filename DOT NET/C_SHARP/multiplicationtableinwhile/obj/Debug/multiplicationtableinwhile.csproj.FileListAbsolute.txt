@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationtableinwhile\bin\Debug\multiplicationtableinwhile.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationtableinwhile\bin\Debug\multiplicationtableinwhile.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationtableinwhile\bin\Debug\multiplicationtableinwhile.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationtableinwhile\obj\Debug\multiplicationtableinwhile.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationtableinwhile\obj\Debug\multiplicationtableinwhile.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationtableinwhile\obj\Debug\multiplicationtableinwhile.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationtableinwhile\obj\Debug\multiplicationtableinwhile.pdb
