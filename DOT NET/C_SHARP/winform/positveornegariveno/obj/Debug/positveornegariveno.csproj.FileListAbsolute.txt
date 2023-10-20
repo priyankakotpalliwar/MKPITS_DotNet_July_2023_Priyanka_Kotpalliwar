@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\bin\Debug\positveornegariveno.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\bin\Debug\positveornegariveno.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\bin\Debug\positveornegariveno.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\obj\Debug\positveornegariveno.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\obj\Debug\positveornegariveno.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\obj\Debug\positveornegariveno.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\obj\Debug\positveornegariveno.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\obj\Debug\positveornegariveno.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\obj\Debug\positveornegariveno.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\positveornegariveno\obj\Debug\positveornegariveno.pdb

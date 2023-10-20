@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\bin\Debug\eligibleforAdmission.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\bin\Debug\eligibleforAdmission.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\bin\Debug\eligibleforAdmission.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\obj\Debug\eligibleforAdmission.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\obj\Debug\eligibleforAdmission.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\obj\Debug\eligibleforAdmission.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\obj\Debug\eligibleforAdmission.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\obj\Debug\eligibleforAdmission.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\obj\Debug\eligibleforAdmission.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\eligibleforAdmission\obj\Debug\eligibleforAdmission.pdb

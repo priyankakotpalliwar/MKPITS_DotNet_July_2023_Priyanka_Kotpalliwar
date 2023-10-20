@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\bin\Debug\largestthreeno.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\bin\Debug\largestthreeno.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\bin\Debug\largestthreeno.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\obj\Debug\largestthreeno.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\obj\Debug\largestthreeno.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\obj\Debug\largestthreeno.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\obj\Debug\largestthreeno.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\obj\Debug\largestthreeno.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\obj\Debug\largestthreeno.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\largestthreeno\obj\Debug\largestthreeno.pdb

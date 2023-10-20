@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\bin\Debug\addition,multiplication,substrction.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\bin\Debug\addition,multiplication,substrction.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\bin\Debug\addition,multiplication,substrction.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\obj\Debug\addition,multiplication,substrction.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\obj\Debug\addition_multiplication_substrction.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\obj\Debug\addition_multiplication_substrction.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\obj\Debug\addition,multiplication,substrction.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\obj\Debug\addition,multiplication,substrction.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\obj\Debug\addition,multiplication,substrction.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\winform\addition,multiplication,substrction\obj\Debug\addition,multiplication,substrction.pdb
