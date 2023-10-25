@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\method\methodwithoneingerparameter\bin\Debug\methodwithoneingerparameter.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\method\methodwithoneingerparameter\bin\Debug\methodwithoneingerparameter.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\method\methodwithoneingerparameter\bin\Debug\methodwithoneingerparameter.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\method\methodwithoneingerparameter\obj\Debug\methodwithoneingerparameter.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\method\methodwithoneingerparameter\obj\Debug\methodwithoneingerparameter.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\method\methodwithoneingerparameter\obj\Debug\methodwithoneingerparameter.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\method\methodwithoneingerparameter\obj\Debug\methodwithoneingerparameter.pdb
