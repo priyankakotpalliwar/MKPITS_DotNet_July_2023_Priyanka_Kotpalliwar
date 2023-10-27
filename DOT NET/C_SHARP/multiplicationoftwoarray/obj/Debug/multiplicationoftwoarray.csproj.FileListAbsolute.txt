@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationoftwoarray\bin\Debug\multiplicationoftwoarray.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationoftwoarray\bin\Debug\multiplicationoftwoarray.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationoftwoarray\bin\Debug\multiplicationoftwoarray.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationoftwoarray\obj\Debug\multiplicationoftwoarray.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationoftwoarray\obj\Debug\multiplicationoftwoarray.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationoftwoarray\obj\Debug\multiplicationoftwoarray.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\multiplicationoftwoarray\obj\Debug\multiplicationoftwoarray.pdb
