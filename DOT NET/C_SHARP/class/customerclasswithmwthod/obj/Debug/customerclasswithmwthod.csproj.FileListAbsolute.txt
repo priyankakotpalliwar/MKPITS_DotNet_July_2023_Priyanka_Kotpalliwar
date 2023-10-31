@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\customerclasswithmwthod\bin\Debug\customerclasswithmwthod.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\customerclasswithmwthod\bin\Debug\customerclasswithmwthod.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\customerclasswithmwthod\bin\Debug\customerclasswithmwthod.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\customerclasswithmwthod\obj\Debug\customerclasswithmwthod.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\customerclasswithmwthod\obj\Debug\customerclasswithmwthod.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\customerclasswithmwthod\obj\Debug\customerclasswithmwthod.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\customerclasswithmwthod\obj\Debug\customerclasswithmwthod.pdb
