@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\constructoreg1\bin\Debug\constructoreg1.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\constructoreg1\bin\Debug\constructoreg1.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\constructoreg1\bin\Debug\constructoreg1.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\constructoreg1\obj\Debug\constructoreg1.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\constructoreg1\obj\Debug\constructoreg1.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\constructoreg1\obj\Debug\constructoreg1.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\constructoreg1\obj\Debug\constructoreg1.pdb

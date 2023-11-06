@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\productclass\bin\Debug\productclass.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\productclass\bin\Debug\productclass.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\productclass\bin\Debug\productclass.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\productclass\obj\Debug\productclass.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\productclass\obj\Debug\productclass.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\productclass\obj\Debug\productclass.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\productclass\obj\Debug\productclass.pdb
