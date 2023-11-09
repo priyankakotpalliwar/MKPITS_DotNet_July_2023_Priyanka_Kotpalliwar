@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\CopyconstructorofMovie\bin\Debug\CopyconstructorofMovie.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\CopyconstructorofMovie\bin\Debug\CopyconstructorofMovie.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\CopyconstructorofMovie\bin\Debug\CopyconstructorofMovie.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\CopyconstructorofMovie\obj\Debug\CopyconstructorofMovie.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\CopyconstructorofMovie\obj\Debug\CopyconstructorofMovie.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\CopyconstructorofMovie\obj\Debug\CopyconstructorofMovie.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\CopyconstructorofMovie\obj\Debug\CopyconstructorofMovie.pdb
