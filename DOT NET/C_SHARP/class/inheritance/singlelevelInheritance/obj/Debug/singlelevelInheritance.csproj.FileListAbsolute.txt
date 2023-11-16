@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\singlelevelInheritance\bin\Debug\singlelevelInheritance.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\singlelevelInheritance\bin\Debug\singlelevelInheritance.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\singlelevelInheritance\bin\Debug\singlelevelInheritance.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\singlelevelInheritance\obj\Debug\singlelevelInheritance.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\singlelevelInheritance\obj\Debug\singlelevelInheritance.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\singlelevelInheritance\obj\Debug\singlelevelInheritance.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\singlelevelInheritance\obj\Debug\singlelevelInheritance.pdb

@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\classEMPLOYEE(ASSIGNMENT)\bin\Debug\classEMPLOYEE(ASSIGNMENT).exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\classEMPLOYEE(ASSIGNMENT)\bin\Debug\classEMPLOYEE(ASSIGNMENT).exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\classEMPLOYEE(ASSIGNMENT)\bin\Debug\classEMPLOYEE(ASSIGNMENT).pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\classEMPLOYEE(ASSIGNMENT)\obj\Debug\classEMPLOYEE(ASSIGNMENT).csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\classEMPLOYEE(ASSIGNMENT)\obj\Debug\classEMPLOYEE(ASSIGNMENT).csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\classEMPLOYEE(ASSIGNMENT)\obj\Debug\classEMPLOYEE(ASSIGNMENT).exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\classEMPLOYEE(ASSIGNMENT)\obj\Debug\classEMPLOYEE(ASSIGNMENT).pdb

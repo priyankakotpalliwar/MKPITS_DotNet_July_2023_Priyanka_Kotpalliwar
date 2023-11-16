@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\PublicClassPerson\bin\Debug\PublicClassPerson.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\PublicClassPerson\bin\Debug\PublicClassPerson.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\PublicClassPerson\bin\Debug\PublicClassPerson.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\PublicClassPerson\obj\Debug\PublicClassPerson.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\PublicClassPerson\obj\Debug\PublicClassPerson.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\PublicClassPerson\obj\Debug\PublicClassPerson.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\PublicClassPerson\obj\Debug\PublicClassPerson.pdb
