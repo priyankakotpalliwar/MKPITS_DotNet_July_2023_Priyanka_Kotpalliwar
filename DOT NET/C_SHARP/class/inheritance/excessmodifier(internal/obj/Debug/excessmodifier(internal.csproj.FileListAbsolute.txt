@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\excessmodifier(internal\bin\Debug\excessmodifier(internal.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\excessmodifier(internal\bin\Debug\excessmodifier(internal.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\excessmodifier(internal\bin\Debug\excessmodifier(internal.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\excessmodifier(internal\obj\Debug\excessmodifier(internal.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\excessmodifier(internal\obj\Debug\excessmodifier(internal.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\excessmodifier(internal\obj\Debug\excessmodifier(internal.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\class\inheritance\excessmodifier(internal\obj\Debug\excessmodifier(internal.pdb
