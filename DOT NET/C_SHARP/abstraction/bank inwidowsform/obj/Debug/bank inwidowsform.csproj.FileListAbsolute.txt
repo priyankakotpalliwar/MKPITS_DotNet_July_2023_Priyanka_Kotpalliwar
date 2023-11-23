@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\bin\Debug\bank inwidowsform.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\bin\Debug\bank inwidowsform.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\bin\Debug\bank inwidowsform.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\obj\Debug\bank inwidowsform.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\obj\Debug\bank_inwidowsform.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\obj\Debug\bank_inwidowsform.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\obj\Debug\bank inwidowsform.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\obj\Debug\bank inwidowsform.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\obj\Debug\bank inwidowsform.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\bank inwidowsform\obj\Debug\bank inwidowsform.pdb

@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\nestednamespace\bin\Debug\nestednamespace.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\nestednamespace\bin\Debug\nestednamespace.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\nestednamespace\bin\Debug\nestednamespace.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\nestednamespace\obj\Debug\nestednamespace.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\nestednamespace\obj\Debug\nestednamespace.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\nestednamespace\obj\Debug\nestednamespace.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\nestednamespace\obj\Debug\nestednamespace.pdb

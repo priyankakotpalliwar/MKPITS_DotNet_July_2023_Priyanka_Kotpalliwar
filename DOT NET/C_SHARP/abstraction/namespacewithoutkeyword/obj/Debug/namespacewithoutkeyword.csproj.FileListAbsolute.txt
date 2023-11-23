@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\namespacewithoutkeyword\bin\Debug\namespacewithoutkeyword.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\namespacewithoutkeyword\bin\Debug\namespacewithoutkeyword.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\namespacewithoutkeyword\bin\Debug\namespacewithoutkeyword.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\namespacewithoutkeyword\obj\Debug\namespacewithoutkeyword.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\namespacewithoutkeyword\obj\Debug\namespacewithoutkeyword.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\namespacewithoutkeyword\obj\Debug\namespacewithoutkeyword.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\namespacewithoutkeyword\obj\Debug\namespacewithoutkeyword.pdb

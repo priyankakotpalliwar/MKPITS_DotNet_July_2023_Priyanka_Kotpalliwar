@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\encapsulationeg2\bin\Debug\encapsulationeg2.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\encapsulationeg2\bin\Debug\encapsulationeg2.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\encapsulationeg2\bin\Debug\encapsulationeg2.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\encapsulationeg2\obj\Debug\encapsulationeg2.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\encapsulationeg2\obj\Debug\encapsulationeg2.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\encapsulationeg2\obj\Debug\encapsulationeg2.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\abstraction\encapsulationeg2\obj\Debug\encapsulationeg2.pdb
