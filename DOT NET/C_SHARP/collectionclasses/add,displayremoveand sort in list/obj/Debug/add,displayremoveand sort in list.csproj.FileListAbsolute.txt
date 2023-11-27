@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\bin\Debug\add,displayremoveand sort in list.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\bin\Debug\add,displayremoveand sort in list.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\bin\Debug\add,displayremoveand sort in list.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\obj\Debug\add,displayremoveand sort in list.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\obj\Debug\add_displayremoveand_sort_in_list.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\obj\Debug\add_displayremoveand_sort_in_list.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\obj\Debug\add,displayremoveand sort in list.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\obj\Debug\add,displayremoveand sort in list.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\obj\Debug\add,displayremoveand sort in list.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\add,displayremoveand sort in list\obj\Debug\add,displayremoveand sort in list.pdb
