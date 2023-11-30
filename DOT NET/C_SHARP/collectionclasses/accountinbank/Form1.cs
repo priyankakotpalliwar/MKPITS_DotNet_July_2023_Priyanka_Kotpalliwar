@@ -38,7 +38,7 @@ namespace accountinbank
             {
                 act = new saving();
             }
-            else if(comboBox1.Text==" current")
+            else if(comboBox1.Text=="current")
             {
                 act = new current();
             }

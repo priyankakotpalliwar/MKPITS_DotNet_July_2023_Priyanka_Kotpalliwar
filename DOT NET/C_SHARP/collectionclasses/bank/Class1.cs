@@ -16,17 +16,22 @@ namespace bank
             public string withdrawl(int amount)
             {
                 string res = null;
-                if(balance> amount)
+                if(balance< amount)
                 {
                     res = "you have unsufficient balance";
 
                 }
-                else if(balance< amount) 
+                else if(balance>amount) 
                 {
                     balance= balance-amount;
-                    res = "you have sucessfully withdrawl"+balance.
-                        ToString();
+                    res = "you have sucessfully withdrawl"+balance.ToString();
                 }
+                else if (balance==amount) 
+                {
+                    balance = 0;
+                    res = "you have sucessfully withdrawl" + balance.ToString();
+                }
+
                 return res;
                
             }
