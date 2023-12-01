@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\string excepyionalhandling\bin\Debug\string excepyionalhandling.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\string excepyionalhandling\bin\Debug\string excepyionalhandling.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\string excepyionalhandling\bin\Debug\string excepyionalhandling.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\string excepyionalhandling\obj\Debug\string excepyionalhandling.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\string excepyionalhandling\obj\Debug\string excepyionalhandling.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\string excepyionalhandling\obj\Debug\string excepyionalhandling.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\string excepyionalhandling\obj\Debug\string excepyionalhandling.pdb

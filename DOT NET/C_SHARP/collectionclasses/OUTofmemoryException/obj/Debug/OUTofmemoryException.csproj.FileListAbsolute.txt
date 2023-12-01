@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\OUTofmemoryException\bin\Debug\OUTofmemoryException.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\OUTofmemoryException\bin\Debug\OUTofmemoryException.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\OUTofmemoryException\bin\Debug\OUTofmemoryException.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\OUTofmemoryException\obj\Debug\OUTofmemoryException.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\OUTofmemoryException\obj\Debug\OUTofmemoryException.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\OUTofmemoryException\obj\Debug\OUTofmemoryException.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\OUTofmemoryException\obj\Debug\OUTofmemoryException.pdb

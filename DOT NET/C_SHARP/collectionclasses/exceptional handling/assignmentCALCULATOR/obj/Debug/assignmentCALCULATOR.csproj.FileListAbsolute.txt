@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\assignmentCALCULATOR\bin\Debug\assignmentCALCULATOR.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\assignmentCALCULATOR\bin\Debug\assignmentCALCULATOR.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\assignmentCALCULATOR\bin\Debug\assignmentCALCULATOR.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\assignmentCALCULATOR\obj\Debug\assignmentCALCULATOR.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\assignmentCALCULATOR\obj\Debug\assignmentCALCULATOR.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\assignmentCALCULATOR\obj\Debug\assignmentCALCULATOR.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\assignmentCALCULATOR\obj\Debug\assignmentCALCULATOR.pdb

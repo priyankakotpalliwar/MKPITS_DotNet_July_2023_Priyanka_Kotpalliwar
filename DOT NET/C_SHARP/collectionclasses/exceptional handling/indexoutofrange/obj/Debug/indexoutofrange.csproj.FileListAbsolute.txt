@@ -1,0 +1,7 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\indexoutofrange\bin\Debug\indexoutofrange.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\indexoutofrange\bin\Debug\indexoutofrange.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\indexoutofrange\bin\Debug\indexoutofrange.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\indexoutofrange\obj\Debug\indexoutofrange.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\indexoutofrange\obj\Debug\indexoutofrange.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\indexoutofrange\obj\Debug\indexoutofrange.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\C_SHARP\collectionclasses\exceptional handling\indexoutofrange\obj\Debug\indexoutofrange.pdb
