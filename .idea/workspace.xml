@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ab756c6-2f24-47e9-8e58-c4f34bbb344d" name="Changes" comment="" />
+    <list default="true" id="4ab756c6-2f24-47e9-8e58-c4f34bbb344d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DOT NET/WINFORM/abc.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

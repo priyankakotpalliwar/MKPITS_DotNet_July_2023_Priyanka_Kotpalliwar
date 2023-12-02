@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\bin\Debug\basicsalaryplusbonus.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\bin\Debug\basicsalaryplusbonus.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\bin\Debug\basicsalaryplusbonus.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\obj\Debug\basicsalaryplusbonus.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\obj\Debug\basicsalaryplusbonus.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\obj\Debug\basicsalaryplusbonus.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\obj\Debug\basicsalaryplusbonus.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\obj\Debug\basicsalaryplusbonus.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\obj\Debug\basicsalaryplusbonus.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\basicsalaryplusbonus\obj\Debug\basicsalaryplusbonus.pdb
