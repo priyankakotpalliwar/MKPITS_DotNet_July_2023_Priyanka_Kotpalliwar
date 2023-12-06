@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\bin\Debug\propertiesofradiobutton.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\bin\Debug\propertiesofradiobutton.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\bin\Debug\propertiesofradiobutton.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\obj\Debug\propertiesofradiobutton.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\obj\Debug\propertiesofradiobutton.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\obj\Debug\propertiesofradiobutton.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\obj\Debug\propertiesofradiobutton.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\obj\Debug\propertiesofradiobutton.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\obj\Debug\propertiesofradiobutton.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\propertiesofradiobutton\obj\Debug\propertiesofradiobutton.pdb

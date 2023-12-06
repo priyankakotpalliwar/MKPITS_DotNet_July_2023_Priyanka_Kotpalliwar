@@ -1,0 +1,11 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\bin\Debug\creatingRegistrationForm.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\bin\Debug\creatingRegistrationForm.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\bin\Debug\creatingRegistrationForm.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\creatingRegistrationForm\obj\Debug\creatingRegistrationForm.Form2.resources
