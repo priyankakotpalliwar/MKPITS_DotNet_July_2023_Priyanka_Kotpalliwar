@@ -1,0 +1,12 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\bin\Debug\tabcontrol.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\bin\Debug\tabcontrol.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\bin\Debug\tabcontrol.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.Form2.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\tabcontrol\obj\Debug\tabcontrol.Form3.resources

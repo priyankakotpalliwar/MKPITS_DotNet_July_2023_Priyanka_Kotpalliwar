@@ -1,0 +1,11 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\bin\Debug\groupbox.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\bin\Debug\groupbox.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\bin\Debug\groupbox.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.Form2.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\WINFORM\groupbox\obj\Debug\groupbox.pdb
