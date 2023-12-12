@@ -1,120 +1,108 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace libraryquestion
+class Author
 {
-    //: Implement a simple library management system in C#.
-    //Design classes for Book, Author, and Library.
-    //Each book should have properties like Title, ISBN, and a reference to an Author.
-    //The Library class should keep track of a collection of books.
-    //Implement methods for adding a book, removing a book, and displaying
-    //the list of books with their details. Ensure that the system handles the scenario
-    //where multiple books share the same title but have different ISBNs.
-    //Write a program to demonstrate the functionality of your library management system.
+    public string AuthorName { get;}
 
-    class Author
+    public Author(string authorName)
     {
-        string Authorname { get; set; }
-        public Author(string Authorname)
+        AuthorName = authorName;
+    }
+}
+
+class Book
+{
+    public string Title { get; }
+    public string ISBN { get; }
+    public Author Author { get; }
+
+    public Book(string title, string isbn, Author author)
+    {
+        Title = title;
+        ISBN = isbn;
+        Author = author;
+    }
+
+    public override string ToString()
+    {
+        return $"Title: {Title}, ISBN: {ISBN}, Author: {Author.AuthorName}";
+    }
+}
+
+class Library
+{
+    private List<Book> books = new List<Book>();
+
+    public void AddBook(Book book)
+    {
+        books.Add(book);
+        Console.WriteLine($"Book added to the library: {book}");
+    }
+
+    public void RemoveBook(String isbn )
+    {
+        Book bookToRemove = null;
+
+        foreach (var book in books)
         {
-            this.Authorname = Authorname;
+            if (book.ISBN == isbn)
+            {
+                bookToRemove = book;
+                break;
+            }
+        }
+
+        if (bookToRemove != null)
+        {
+            books.Remove(bookToRemove);
+            Console.WriteLine($"Book removed from the library: {bookToRemove}");
+        }
+        else
+        {
+            Console.WriteLine($"Book with ISBN {isbn} not found in the library.");
         }
     }
 
-    class Book
+    public void DisplayBooks()
     {
-        public string Title { get; set; }
-        public string ISBM { get; set; }
-        public string reference { get; set; }
-
-        public Book(string Title, string ISBM, Author author)
+        Console.WriteLine("Books in the library:");
+        foreach (var book in books)
         {
-            this.Title = Title;
-            this.ISBM = ISBM;
-            this.reference = reference;
+            Console.WriteLine(book);
         }
-        public override string ToString()
-        {
-            return "title" + Title + "ISBM" + ISBM + "refernce" + reference;
-        }
+        Console.WriteLine();
     }
-    class library
+}
+
+class Program
+{
+    static void Main()
     {
-        List<Book> books = new List<Book>();
+        // Create authors
+        Author author1 = new Author("John Doe");
+        Author author2 = new Author("Jane Smith");
 
-        public void AddBook(Book book)
-        {
-            books.Add(book);
-            Console.WriteLine("books added" + book);
-        }
-        public void RemoveBook(string ISBM)
-        {
-            Book bookToRemove = null;
-            foreach (var book in books)
-            {
-                if (book.ISBM == ISBM)
-                {
-                    bookToRemove = book;
-                    break;
-                }
-            }
-            if (bookToRemove != null)
-            {
-                books.Remove(bookToRemove);
-                Console.WriteLine("books removed" + bookToRemove);
-            }
-            else
-            {
-                Console.WriteLine("books not found in library");
-            }
-        }
+        // Create books
+        Book book1 = new Book("Introduction to C#", "123456", author1);
+        Book book2 = new Book("Introduction to C#", "789012", author2);
+        Book book3 = new Book("Advanced C#", "345678", author1);
 
-            public void displaybook()
-            {
-                Console.WriteLine("book in library");
+        // Create library
+        Library library = new Library();
 
-                foreach (var book in books)
-                {
-                    Console.WriteLine(book);
+        // Add books to the library
+        library.AddBook(book1);
+        library.AddBook(book2);
+        library.AddBook(book3);
 
+        // Display books in the library
+        library.DisplayBooks();
 
-                }
-            }
-        }
-        internal class Program
-        {
-            static void Main(string[] args)
-            {
-           //create authors
-           Author author1=new Author("priyanka");
-            Author author2 = new Author("shreya");
-            // create books
-            Book book1 = new Book("subtile art ", "8921", author1);
-            Book book2 = new Book("inside out", "8925", author2);
-            Book book3 = new Book("rafta rafta", "3090", author1);
-            //create library
-            library lib = new library();
+        // Remove a book from the library
+        library.RemoveBook("789012");
 
-             
-            //add books to library
-            lib.AddBook(book1);
-            lib.AddBook(book2);
-            lib.AddBook(book3);
-            //displaying book
-            lib.displaybook();
-            //remove book
-            lib.RemoveBook("32344");
-
-            //displaying
-            lib.displaybook();
-
-
-            Console.ReadKey();
-            }
-        }
+        // Display updated books in the library
+        library.DisplayBooks();
     }
-
+}
