@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\bin\Debug\Student_Info.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\bin\Debug\Student_Info.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\bin\Debug\Student_Info.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\obj\Debug\Student_Info.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\obj\Debug\Student_Info.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\obj\Debug\Student_Info.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\obj\Debug\Student_Info.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\obj\Debug\Student_Info.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\obj\Debug\Student_Info.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\Student_Info\obj\Debug\Student_Info.pdb
