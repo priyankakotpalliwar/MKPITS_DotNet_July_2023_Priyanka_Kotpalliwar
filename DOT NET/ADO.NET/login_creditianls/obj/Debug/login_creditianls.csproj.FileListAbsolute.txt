@@ -1,0 +1,11 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\bin\Debug\login_creditianls.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\bin\Debug\login_creditianls.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\bin\Debug\login_creditianls.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\login_creditianls\obj\Debug\login_creditianls.login.resources
