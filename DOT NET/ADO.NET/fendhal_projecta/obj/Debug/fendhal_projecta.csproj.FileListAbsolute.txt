@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\bin\Debug\fendhal_projecta.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\bin\Debug\fendhal_projecta.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\bin\Debug\fendhal_projecta.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\obj\Debug\fendhal_projecta.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\obj\Debug\fendhal_projecta.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\obj\Debug\fendhal_projecta.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\obj\Debug\fendhal_projecta.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\obj\Debug\fendhal_projecta.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\obj\Debug\fendhal_projecta.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\fendhal_projecta\obj\Debug\fendhal_projecta.pdb
