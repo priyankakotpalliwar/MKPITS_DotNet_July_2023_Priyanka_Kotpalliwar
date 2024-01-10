@@ -1,0 +1,10 @@
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\bin\Debug\sqladapter.exe.config
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\bin\Debug\sqladapter.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\bin\Debug\sqladapter.pdb
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\obj\Debug\sqladapter.csproj.AssemblyReference.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\obj\Debug\sqladapter.Form1.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\obj\Debug\sqladapter.Properties.Resources.resources
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\obj\Debug\sqladapter.csproj.GenerateResource.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\obj\Debug\sqladapter.csproj.CoreCompileInputs.cache
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\obj\Debug\sqladapter.exe
+E:\MKPITS\MKPITS_DotNet_July_2023_Priyanka_Kotpalliwar\DOT NET\ADO.NET\sqladapter\obj\Debug\sqladapter.pdb
