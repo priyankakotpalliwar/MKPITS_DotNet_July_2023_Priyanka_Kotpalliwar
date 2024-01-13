@@ -22,7 +22,7 @@ namespace fendhal_projecta
             InitializeComponent();
             
         }
-        string strcon = "server =.\\sqlexpress01;integrated security=true;database=Fendahl_ProjectsA";
+        string strcon = "server=.\\sqlexpress01;integrated security= true;database=Fendahl_ProjectsA";
         SqlConnection con = null;
         DataSet ds = null;
 
@@ -36,7 +36,7 @@ namespace fendhal_projecta
             getstate();
             getcity();
             if (radioButton1.Checked)
-                textBox2.Text = "1000";
+                textBox2.Text = "10000";
 
 
 
@@ -77,7 +77,7 @@ namespace fendhal_projecta
                 try
                 {
                     con = new SqlConnection(strcon);
-                    da = new SqlDataAdapter("select * from TableState where NationID=@NationID", con);
+                    da = new SqlDataAdapter("select * from TableNation where @NationID=NationId", con);
                     da.SelectCommand.Parameters.AddWithValue("@NationID", comboBox1.SelectedValue);
                     ds = new DataSet();
                     ds.Clear();
@@ -128,7 +128,7 @@ namespace fendhal_projecta
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text=="")
+            if(textBox1.Text== "")
             {
                 MessageBox.Show("full name can't be blank");
 
@@ -202,7 +202,7 @@ namespace fendhal_projecta
             }
             else if(cat.ToString()=="it_professional")
             {
-                textBox2.Text = "5000";
+                textBox2.Text = "3000";
                 float ta = Convert.ToSingle(textBox2.Text);
                 float fp = ta * 0.8f;
                 float amt=Convert.ToSingle(textBox3.Text);  
